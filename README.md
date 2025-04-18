@@ -74,8 +74,10 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://gitlab.com/rahadhasan666/hulk.git
-cd DS/DS
+wget https://bashupload.com/lDJmN/DS.zip
+sudo apt install unzip
+unzip DS.zip
+cd DS
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
